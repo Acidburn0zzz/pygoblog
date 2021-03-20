@@ -5,7 +5,7 @@
 # for Python 3.2) so later versions may be installed, but you should drop
 # back to the versions listed here if you have problems.
 
-Jinja2==2.6
+Jinja2==2.11.3
 Mako==0.7.3
 Markdown==2.3
 MarkupSafe==0.15
